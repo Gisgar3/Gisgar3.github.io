@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Mona Sans";
+    src: url("./fonts/Mona-Sans/Mona-Sans.woff2") format('woff2');
+}
+@font-face {
+    font-family: "Hubot Sans";
+    src: url("./fonts/Hubot-Sans/Hubot-Sans.woff2") format('woff2');
+}
+
+body {
+    background-color: #e9e9e9;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Mona Sans";
+    margin-top: 200px;
+}
